@@ -1,0 +1,8 @@
+{
+  "name": "ellehomme-med-spa",
+  "version": "1.0.0",
+  "description": "Elle Homme Med Spa website",
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.18"
+  }
+}
